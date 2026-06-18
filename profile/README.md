@@ -3,7 +3,7 @@
 
   <br />
 
-  <img src="https://qxch.at/image.png" alt="QxProtocol Banner" width="100%" />
+  <img src="https://qxch.at/image.png" alt="QxProtocol Banner" width="55%" />
 
   <br /><br />
 
