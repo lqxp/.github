@@ -41,7 +41,7 @@ The core of the project. A lightweight, high-performance WebSocket server implem
 ---
 
 ### [`lqxp/app`](https://github.com/lqxp/app) — desktop & mobile app
-> **Nix** · Tauri-based
+> **Nix** · Tauri-based · MIT-0
 
 `QxpApp` is the official packaged application wrapping `QxpClient` into a native experience using Tauri. Available for desktop (Linux, macOS, Windows) and Android. Built and distributed via Nix for reproducible, auditable builds. Same client code, native notifications, system tray, and device-level audio support.
 
