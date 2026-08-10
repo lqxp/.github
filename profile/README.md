@@ -63,18 +63,29 @@ The source code for [npmjs package](https://www.npmjs.com/package/qxchat.ts) —
 
 ## Key features
 
-- 🔒 **End-to-end encryption** — AES-GCM encryption client-side, room keys never leave your device
-- 🔑 **Room tokens** — share a single token to grant access and the encryption key at once
-- 🎙️ **Voice calls** — WebRTC-based, peer-to-peer audio with optional noise gate and per-user volume
-- 📎 **File attachments** — send images, audio, video and arbitrary files, encrypted like any message
-- 👤 **Pseudonymous** — username-based, no email, no phone number required
-- 🌐 **Self-hostable** — run your own lqxp server in minutes
+★ **End-to-end encryption** ━━
+AES-GCM encryption happens client-side; room keys never leave your device.
+
+★ **Room tokens**           ━━
+Share a single token to grant access and the encryption key at once.
+
+★ **Voice calls**           ━━
+WebRTC-based peer-to-peer audio with optional noise gate and per-user volume.
+
+★ **File attachments**      ━━
+Send images, audio, video, and arbitrary files, encrypted like any other message.
+
+★ **Pseudonymous**          ━━
+Username-based, with no email or phone number required.
+
+★ **Self-hostable**         ━━
+Run your own LQXP server in minutes.
 
 ---
 
 ## Getting started
 
-The fastest way to try lqxp is at **[qxch.at](https://qxch.at)** — the public hosted instance.
+The fastest way to try QxChat is at **[qxch.at](https://qxch.at)** — the public hosted instance.
 
 To self-host or contribute, start with the server:
 
@@ -84,12 +95,12 @@ cd lqxp
 cargo build --release
 ```
 
-Then point `QxpClient` or `QxpApp` at your server's WebSocket URL.
+Then point `client` at your server's WebSocket URL.
 
 ---
 
 <div align="center">
-  <sub>Built in Iceland · Open source · No tracking</sub>
+  <sub>Built on Internet · Open source · No tracking</sub>
   <br />
   <a href="https://qxch.at">qxch.at</a>
 </div>
