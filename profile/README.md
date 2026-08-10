@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://qxch.at/app-icon-with-name.svg" alt="lqxp logo" />
 
-  # light qx protocol
+  # QxChat over LQXP
 
   **A lightweight, end-to-end encrypted messaging network built for privacy.**
 
