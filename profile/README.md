@@ -7,7 +7,7 @@
 
   <br /><br />
 
-  # light qxp protocol
+  # light qx protocol
 
   **A lightweight, end-to-end encrypted messaging network built for privacy.**
 
@@ -22,7 +22,7 @@
 
 ## What is lqxp?
 
-**lqxp** (Light QX Protocol) is an open, IRC-inspired messaging protocol designed from the ground up with end-to-end encryption at its core. No metadata harvesting, no surveillance, no accounts tied to your identity — just rooms, messages, and cryptographic privacy.
+**lqxp** (Light Quantum X Protocol) is an open, IRC-inspired messaging protocol designed from the ground up with end-to-end encryption at its core. No metadata harvesting, no surveillance, no accounts tied to your identity — just rooms, messages, and cryptographic privacy.
 
 Think of it as a modern, minimal alternative to IRC, where every message is encrypted client-side before it ever touches the wire.
 
@@ -57,6 +57,13 @@ The core of the project. A lightweight, high-performance WebSocket server implem
 > **Vue** · MIT-0
 
 The source code for [qxch.at](https://qxch.at) — the public-facing website for the project. Landing page, documentation, and download links.
+
+---
+
+### [`lqxp/qxchat.ts`](https://github.com/lqxp/qxchat.ts) — npmjs package
+> **TypeScript** · MIT-0
+
+The source code for [npmjs package](https://www.npmjs.com/package/qxchat.ts) — High-performance optimized selfbot SDK for QXChat client written natively for Bun.
 
 ---
 
