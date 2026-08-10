@@ -1,11 +1,5 @@
 <div align="center">
-  <img src="https://github.com/lqxp.png" width="96" height="96" style="border-radius: 50%;" alt="lqxp logo" />
-
-  <br />
-
-  <img src="https://qxch.at/image.png" alt="QxProtocol Banner" width="55%" />
-
-  <br /><br />
+  <img src="https://qxch.at/app-icon-with-name.svg" alt="lqxp logo" />
 
   # light qx protocol
 
